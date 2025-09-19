@@ -1,3 +1,3 @@
 | Day  | Problem | Language | File |
 |------|---------|----------|------|
-| 01   | Pattern |python|[Day01](Day01/pattern.py)| 
+| 01   | Pattern |python|[Day01](Day01/pyramid.py)| 
